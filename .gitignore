@@ -1,0 +1,11 @@
+pycache/
+*.pyc
+build/
+dist/
+*.spec
+*.exe
+model/
+rvc_model/
+voice/
+.env
+venv/
