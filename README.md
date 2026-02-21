@@ -63,7 +63,7 @@ Figma, Notion, Trello, Google Документы
 ### Установка
 
 ```bash
-git clone https://github.com/ТВОЙ_ЮЗЕРНЕЙМ/jarvis.git
+git clone https://github.com/rip/jarvis.git
 cd jarvis
 
 pip install -r requirements.txt
